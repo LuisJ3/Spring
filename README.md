@@ -13,5 +13,6 @@ To delete a customer execute a DELETE method on `http://localhost:8080/customers
 
 ## Add new Customer
 To add a new customer execute  POST method on `http://localhost:8080/customers` with some JSON contining the details of the new customer.
+![alt text](https://github.com/LuisJ3/Spring/blob/master/Screenshots/Screenshot%202019-10-23%20at%2009.03.34.png)
 
 ## Update Customer
