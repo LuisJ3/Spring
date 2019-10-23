@@ -12,6 +12,6 @@ If you wish to get a specific user you can search by ID by executing a GET metho
 To delete a customer execute a DELETE method on `http://localhost:8080/customers/{id}` replacing `{id}` with the ID of the user you wish to delete.
 
 ## Add new Customer
-
+To add a new customer execute  POST method on `http://localhost:8080/customers` with some JSON contining the details of the new customer.
 
 ## Update Customer
