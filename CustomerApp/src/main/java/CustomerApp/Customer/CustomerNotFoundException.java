@@ -1,4 +1,4 @@
-package SpringApp.Customer;
+package CustomerApp.Customer;
 
 public class CustomerNotFoundException extends RuntimeException{
 

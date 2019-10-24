@@ -1,4 +1,4 @@
-package SpringApp.Customer;
+package CustomerApp.Customer;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
