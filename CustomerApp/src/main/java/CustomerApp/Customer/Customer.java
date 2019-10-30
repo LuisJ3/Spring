@@ -1,24 +1,28 @@
 package CustomerApp.Customer;
 
-import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.Id;
+import javax.persistence.*;
 
 @Entity
+@Table(name="customer")
 public class Customer {
     @Id
+    @Column(name = "id")
     @GeneratedValue
-    private Long id;
+    private int id;
+    @Column(name = "firstName")
     private String FirstName;
+    @Column(name = "lastName")
     private String LastName;
+    @Column(name = "email")
     private String Email;
+    @Column(name = "phoneNumber")
     private Long PhoneNumber;
 
-    public Long getId() {
+    public int getId() {
         return id;
     }
 
-    public void setId(Long id) {
+    public void setId(int id) {
         this.id = id;
     }
 

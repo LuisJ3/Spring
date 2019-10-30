@@ -16,12 +16,12 @@ public class CustomerResource {
     private CustomerRepository customerRepository;
 
     @GetMapping("/customers")
-    public List<Customer> retrieveAllCustomers(){
+    public Iterable<Customer> retrieveAllCustomers(){
         return customerRepository.findAll();
     }
 
     @GetMapping("/customers/{id}")
-    public Customer retrieveCustomer(@PathVariable long id) {
+    public Customer retrieveCustomer(@PathVariable int id) {
         Optional<Customer> product = customerRepository.findById(id);
 
         if (!product.isPresent())
@@ -31,7 +31,7 @@ public class CustomerResource {
     }
 
     @DeleteMapping("/customers/{id}")
-    public void deleteCustomer(@PathVariable long id){
+    public void deleteCustomer(@PathVariable int id){
         customerRepository.deleteById(id);
     }
 
@@ -45,7 +45,7 @@ public class CustomerResource {
         return ResponseEntity.created(location).build();
     }
     @PutMapping("/customers/{id}")
-    public ResponseEntity<Object> updateCustomer(@RequestBody Customer customer, @PathVariable long id){
+    public ResponseEntity<Object> updateCustomer(@RequestBody Customer customer, @PathVariable int id){
         Optional<Customer> customerOptional= customerRepository.findById(id);
 
         if (!customerOptional.isPresent())
