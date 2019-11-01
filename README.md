@@ -1,6 +1,6 @@
 # CRUD Service for Customer Objects
 
-To start the application run the `CustomerApp.jar` file present in `Spring/CustomerApp/target/` (branch newName).
+To start the application run the `CustomerApp.jar` file present in the `Spring/CustomerApp/target/`.
 
 ## Get all customers
 In order to get all customer information execute a GET method on `http://localhost:8080/customers`.
