@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="91c385ab-8696-4ffe-8c1c-c85266ef5141" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../CustomerApp/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomerApp/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomerApp/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomerApp/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomerApp/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomerApp/.idea/dbnavigator.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomerApp/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomerApp/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomerApp/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomerApp/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomerApp/Dockerfile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomerApp/SpringApp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomerApp/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomerApp/src/main/java/CustomerApp/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomerApp/src/main/java/CustomerApp/Customer/Customer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomerApp/src/main/java/CustomerApp/Customer/CustomerNotFoundException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomerApp/src/main/java/CustomerApp/Customer/CustomerRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomerApp/src/main/java/CustomerApp/Customer/CustomerResource.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomerApp/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomerApp/src/main/resources/application.properties.orig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomerApp/target/CustomerApp-jar-with-dependencies.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomerApp/target/CustomerApp.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomerApp/target/CustomerApp.jar.original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomerApp/target/classes/CustomerApp/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomerApp/target/classes/CustomerApp/Customer/Customer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomerApp/target/classes/CustomerApp/Customer/CustomerNotFoundException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomerApp/target/classes/CustomerApp/Customer/CustomerRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomerApp/target/classes/CustomerApp/Customer/CustomerResource.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomerApp/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomerApp/target/classes/application.properties.orig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomerApp/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomerApp/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomerApp/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1T9YaWYVBnyc8XGcDK7G9ykGa5f" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="Application.App">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UserApp.App" />
+      <module name="UserApp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="UserApp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Dockerfile" type="docker-deploy" factoryName="dockerfile" temporary="true" server-name="Docker">
+      <deployment type="dockerfile">
+        <settings>
+          <option name="buildCliOptions" value="" />
+          <option name="command" value="" />
+          <option name="containerName" value="" />
+          <option name="entrypoint" value="" />
+          <option name="imageTag" value="" />
+          <option name="commandLineOptions" value="" />
+          <option name="sourceFilePath" value="Dockerfile" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.App" />
+      <item itemvalue="Docker.Dockerfile" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91c385ab-8696-4ffe-8c1c-c85266ef5141" name="Default Changelist" comment="" />
+      <created>1572873842012</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572873842012</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="517" y="337" key="com.intellij.ide.util.TipDialog" timestamp="1575296485750">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="517" y="337" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1575296485750" />
+    <state x="517" y="337" key="com.intellij.ide.util.TipDialog/0.23.1680.963@0.23.1680.963" timestamp="1575293320333" />
+    <state x="217" y="251" key="new project wizard" timestamp="1575296599098">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="217" y="251" key="new project wizard/0.0.1680.1050@0.0.1680.1050" timestamp="1575296599098" />
+  </component>
+</project>
